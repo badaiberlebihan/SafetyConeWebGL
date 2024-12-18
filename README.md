@@ -1,3 +1,7 @@
+| Name           | NRP        | Kelas     |
+| ---            | ---        | ----------|
+| Daffa Diandra Rizky Aghnia | 5025221261 | Grafika Komputer (D) |
+
 versi non-blender
 
 ![Screenshot 2024-12-18 234703](https://github.com/user-attachments/assets/3d176228-fc83-49b1-89f0-566672a9d3c7)
